@@ -44,8 +44,8 @@ Hi! My name is Faza Lanang Djati. I am Fullstack Web Developer that specializes 
 ![GitHub metrics](https://metrics.lecoq.io/fazalanang)
 
 <p align="start">
-  <img width="405em" src="https://github-readme-stats.vercel.app/api?username=fazalanang&show_icons=true&locale=en&theme=radical" alt="fazalanang"/>
-  <img width="405em" src="https://github-readme-streak-stats.herokuapp.com/?user=fazalanang&theme=radical" alt="fazalanang" />
+  <img width="415em" src="https://github-readme-stats.vercel.app/api?username=fazalanang&show_icons=true&locale=en&theme=radical" alt="fazalanang"/>
+  <img width="415em" src="https://github-readme-streak-stats.herokuapp.com/?user=fazalanang&theme=radical" alt="fazalanang" />
 </p>
 
 <h1 align = 'Center'>Watch a 🐍 Eat my Github Contribution Graph</h1>
