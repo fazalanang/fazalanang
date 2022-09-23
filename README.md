@@ -45,7 +45,7 @@ Hi! My name is Faza Lanang Djati. I am Fullstack Web Developer that specializes 
 
 <p align="start">
   <img width="540em" src="https://github-readme-stats.vercel.app/api?username=fazalanang&show_icons=true&locale=en&theme=radical" alt="fazalanang"/>
-  <img width="200em" src="https://github-readme-stats-fazalanang.vercel.app/api/top-langs/?username=fazalanang&theme=radical" alt="fazalanang" />
+  <img width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazalanang&layout=compact&theme=radical" alt="fazalanang" />
 </p>
 <p align="center">
   <img width="540em" src="https://github-readme-streak-stats.herokuapp.com?user=fazalanang&show_icons=true&locale=en&theme=radical" alt="fazalanang"/>
